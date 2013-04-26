@@ -24,7 +24,7 @@ a {
     margin-left: 2px;
     border-radius: 5px; }
   .sidebar .name {
-    margin: 10px 0 20px 0;
+    margin: 10px 0 40px 0;
     width: 200px;
     text-transform: lowercase; }
     .sidebar .name #fname {
@@ -38,6 +38,7 @@ a {
       letter-spacing: 1px;
       float: left;
       color: black; }
+  .sidebar .meta { margin: 40px 0px 0px 0px; }
   .sidebar .meta a {
     margin-left: 0px;
     color: black; }
