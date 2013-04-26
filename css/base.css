@@ -23,15 +23,18 @@ a {
     margin-left: 2px;
     border-radius: 5px; }
   .sidebar .name {
-    margin: 10px 0 20px 0; }
+    margin: 10px 0 20px 0;
+    text-transform: lowercase; }
     .sidebar .name #fname {
       font-size: 23px;
-      letter-spacing: 1px;
+      letter-spacing: 2px;
+      display: inline;
       color: black; }
     .sidebar .name #lname {
       font-size: 23px;
       font-weight: bold;
       letter-spacing: 1px;
+      display: inline;
       color: black; }
   .sidebar .meta a {
     margin-left: 0px;
