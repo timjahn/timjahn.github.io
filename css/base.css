@@ -38,14 +38,14 @@ a {
       letter-spacing: 1px;
       float: left;
       color: black; }
-  .sidebar .meta { margin: 40px 0px 0px 0px; }
+  .sidebar .meta { margin: 20px 0px 0px 0px; }
   .sidebar .meta a {
     margin-left: 0px;
     color: black; }
     .sidebar .meta a:hover {
       color: #227ce8; }
   .sidebar .sections {
-    margin: 15px 0 0 0; }
+    margin: 0px 0 0 0; }
     .sidebar .sections a {
       padding: 3px 0;
       color: black;
