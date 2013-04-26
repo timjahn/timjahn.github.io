@@ -23,15 +23,13 @@ a {
     margin-left: 2px;
     border-radius: 5px; }
   .sidebar .name {
-    text-transform: uppercase;
     margin: 10px 0 20px 0; }
     .sidebar .name #fname {
-      padding-left: 1px;
       font-size: 23px;
-      letter-spacing: 5px;
+      letter-spacing: 1px;
       color: black; }
     .sidebar .name #lname {
-      font-size: 17px;
+      font-size: 23px;
       font-weight: bold;
       letter-spacing: 1px;
       color: black; }
