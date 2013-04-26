@@ -31,9 +31,10 @@ a {
       font-size: 23px;
       letter-spacing: 3px;
       float: left;
+      padding-top: 2px;
       color: black; }
     .sidebar .name #lname {
-      font-size: 23px;
+      font-size: 26px;
       font-weight: bold;
       letter-spacing: 1px;
       float: left;
