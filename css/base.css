@@ -101,7 +101,7 @@ a {
   .content h2 {
     font-size: 30px;
     margin-bottom: 15px; }
-  .content .listing h2 { font-size: 36px; }
+  .content .listing h2 { font-size: 36px; line-height: 30px; }
   .content h3 {
     color: #777;
     font-size: 25px;
