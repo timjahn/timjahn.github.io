@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Test2
+title: How did your first paycheck from your business affect you?
 category: posts
 ---
 
