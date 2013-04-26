@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <title>
-    {% if page.title %}
+    {% if page.title && page.title!='Posts' %}
       {{ page.title }} &ndash;
     {% endif %}
     {{ site.name }}
