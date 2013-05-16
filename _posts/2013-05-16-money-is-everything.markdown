@@ -14,7 +14,7 @@ My goal in life is not to be a rich snob sitting on a yacht with a butler and br
 
 I love my family. I prefer a day spent with them playing outside over a day spent doing anything else.
 
-But money influences time amount of time I spend with my family immensely.  On one extreme, if I had unlimited money, I could spend all my time with family.  On the other extreme, if I had very little money, I couldn't spend hardly any time with my family.
+But money influences the amount of time I spend with my family immensely.  On one extreme, if I had unlimited money, I could spend all my time with family.  On the other extreme, if I had very little money, I couldn't spend hardly any time with my family.
 
 Money influences all the simple things in life too.  Health, for example.  Having money issues can stress a lot of people out.  The amount of money you have determines the amount of healthcare you can afford (in the United States, at least).
 
