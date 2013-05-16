@@ -22,5 +22,5 @@ Most people spend a majority of their time every day working to make money.  The
 
 But everybody needs money. Money makes the world go round.  It's like the gas tank in your car.  When it's on full, you're fine.  You can go anywhere you want.
 
-But when it's on empty, you're screwed.  You're not going anywhere until you get more fuel.
+But when it's on empty, you're screwed.  You're not going anywhere until you get more gas.
 
