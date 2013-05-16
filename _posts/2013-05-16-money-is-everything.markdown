@@ -16,7 +16,7 @@ I love my family. I prefer a day spent with them playing outside over a day spen
 
 But money influences the amount of time I spend with my family immensely.  On one extreme, if I had unlimited money, I could spend all my time with family.  On the other extreme, if I had very little money, I couldn't spend hardly any time with my family.
 
-Money influences all the simple things in life too.  Health, for example.  Having money issues can stress a lot of people out.  The amount of money you have determines the amount of healthcare you can afford (in the United States, at least).
+Money influences the simple things in life too.  Health, for example.  Having money issues can stress a lot of people out.  The amount of money you have determines the amount of healthcare you can afford (in the United States, at least).
 
 Most people spend a majority of their time every day working to make money.  The people that don't usually have money from some other source.  Maybe they inherited money, were gifted money, won the lottery, worked their butts off for years and sold a company, etc.
 
