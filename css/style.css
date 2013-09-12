@@ -22,7 +22,7 @@ body {font: 14px 'droidsans' Helvetica, sans-serif; }
 label { cursor: default; }
 a, a:visited { color: #d96827; }
 a:hover { color: #193664; }
-#container { width: 940px; margin: 0px auto; margin-top: 65px; }
+#container { width: 940px; margin: 0px auto; margin-top: 65px; margin-bottom: 100px; }
 #contact { margin-top: 1px; position: fixed; }
 #contact a { font-weight: bold; }
 #contact li { margin-bottom: 10px; }
