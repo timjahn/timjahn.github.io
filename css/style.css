@@ -24,10 +24,14 @@ a, a:visited { color: #d96827; }
 a:hover { color: #193664; }
 #container { width: 940px; margin: 0px auto; margin-top: 65px; }
 #contact { margin-top: 1px; position: fixed; }
+#contact a { font-weight: bold; }
+#contact li { margin-bottom: 10px; }
 #left { float: left; width: 100px; }
 #right { float: right; width: 750px; }
 h1 { font-family: 'arvo'; color: #193664; font-size: 28px; margin-bottom: 40px; }
 h1 span { font-size: 42px; color: #d96827; display: block; position: relative; bottom: 7px; }
+h2 { color: #193664; font-size: 28px; margin: 0px 0px 10px 0px; padding: 60px 0px 0px 0px; border-top: 1px #CCCCCC dashed; }
+p { margin: 0px 0px 10px 0px; }
 .item { margin-top: 100px; }
 .item.first { margin-top: 0px; }
 .item.last { margin-bottom: 100px; }
@@ -39,3 +43,5 @@ h1 span { font-size: 42px; color: #d96827; display: block; position: relative; b
 .item li.clear { float: none; }
 .item label { font-weight: bold; display: block; }
 .clear { clear: both; float: none; }
+#skills li { float: left; list-style-type: disc; width: 150px; margin: 0px 0px 5px 30px; }
+#skills li.clear { list-style-type: none; float: none; }
