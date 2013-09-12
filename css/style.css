@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'arvo';
+    src: url('../fonts/arvo-webfont.eot');
+    src: url('../fonts/arvo-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/arvo-webfont.woff') format('woff'),
+         url('../fonts/arvo-webfont.ttf') format('truetype'),
+         url('../fonts/arvo-webfont.svg#chunk') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'droidsans';
+    src: url('../fonts/droidsans-webfont.eot');
+    src: url('../fonts/droidsans-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/droidsans-webfont.woff') format('woff'),
+         url('../fonts/droidsans-webfont.ttf') format('truetype'),
+         url('../fonts/droidsans-webfont.svg#chunk') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+body {font: 14px 'droidsans' Helvetica, sans-serif; }
+label { cursor: default; }
+a, a:visited { color: #d96827; }
+a:hover { color: #193664; }
+#container { width: 940px; margin: 0px auto; margin-top: 65px; }
+#contact { margin-top: 1px; position: fixed; }
+#left { float: left; width: 100px; }
+#right { float: right; width: 750px; }
+h1 { font-family: 'arvo'; color: #193664; font-size: 28px; margin-bottom: 40px; }
+h1 span { font-size: 42px; color: #d96827; display: block; position: relative; bottom: 7px; }
+.item { margin-top: 100px; }
+.item.first { margin-top: 0px; }
+.item.last { margin-bottom: 100px; }
+.item img { box-shadow: 0 1px 8px rgba(0, 0, 0, 0.6); -moz-box-shadow: 0 1px 8px rgba(0,0,0,0.6); -webkit-box-shadow: 0 1px 8px rgba(0, 0, 0, 0.6); }
+.item ul { margin: 10px 0px 0px 20px; }
+.item li { margin: 0px 60px 10px 0px; float: left; }
+.item li.client, .item li.website { width: 300px; }
+.item li.desc { width: 700px; }
+.item li.clear { float: none; }
+.item label { font-weight: bold; display: block; }
+.clear { clear: both; float: none; }
